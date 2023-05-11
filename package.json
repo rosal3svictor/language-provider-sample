@@ -16,11 +16,18 @@
     "ci": "pnpm install --frozen-lockfile"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.13.0",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "@vitejs/plugin-react": "^3.1.0",
+    "i18next": "^22.4.15",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-i18next": "^12.2.2",
     "vite": "^4.1.0",
-    "vitest": "^0.29.1",
-    "@vitejs/plugin-react": "^3.1.0"
+    "vite-tsconfig-paths": "^4.2.0",
+    "vitest": "^0.29.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",

@@ -9,9 +9,15 @@
     "jsx": "react-jsx",
 
     /* Modules */
+    "baseUrl": "./src",
     "module": "ESNext",
     "moduleResolution": "Node",
     "resolveJsonModule": true,
+    "paths": {
+      "@interfaces": ["interfaces"],
+      "@components": ["components"],
+      "@utils": ["utils"]
+    },
 
     /* JavaScript Support */
     "allowJs": false,

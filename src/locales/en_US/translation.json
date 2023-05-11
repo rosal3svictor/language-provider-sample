@@ -1,0 +1,14 @@
+{
+  "dropdown": {
+    "options": {
+      "default": "Change language"
+    }
+  },
+  "helperTexts": {
+    "primary": "Edit src/App.tsx and save to test HMR",
+    "secondary": "Click on the Vite and React logos to learn more"
+  },
+  "input": {
+    "label": "Selected language"
+  }
+}

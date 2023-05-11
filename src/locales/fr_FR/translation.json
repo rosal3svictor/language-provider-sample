@@ -1,0 +1,14 @@
+{
+  "dropdown": {
+    "options": {
+      "default": "Changer de langue"
+    }
+  },
+  "helperTexts": {
+    "primary": "Modifiez src/App.tsx et enregistrez pour tester HMR",
+    "secondary": "Cliquez sur les logos Vite et React pour en savoir plus"
+  },
+  "input": {
+    "label": "Langue courante"
+  }
+}
